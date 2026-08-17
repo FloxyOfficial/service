@@ -1,0 +1,13 @@
+{
+  "name": "player-v1-backend",
+  "version": "1.0.0",
+  "description": "WebSocket backend for Player V1 Minecraft mod",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0",
+    "ws": "^8.18.3"
+  }
+}
